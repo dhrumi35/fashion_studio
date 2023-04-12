@@ -1,7 +1,7 @@
 # 🔥Build a Stunning Fashion Studio Website with React JS [ Locomotive Scroll + GSAP + Framer Motion ]
 
 View Demo👇: <br />
-https://wibe-studio.netlify.app/ <br />
+https://main--bejewelled-pastelito-c0b34f.netlify.app/ <br />
 
 ### Resources Used in This Project
 
