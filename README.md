@@ -3,6 +3,14 @@
 View Demo👇: <br />
 https://main--bejewelled-pastelito-c0b34f.netlify.app/ <br />
 
+image of the project:<br>
+![Screenshot (437)](https://user-images.githubusercontent.com/97854285/235545691-cba30494-f429-44c5-a8a6-939f5fed047f.png)
+<br>
+![Screenshot (438)](https://user-images.githubusercontent.com/97854285/235545728-44919226-1313-4364-9b79-316acfc87a5f.png)
+<br>
+![Screenshot (436)](https://user-images.githubusercontent.com/97854285/235545774-99272441-0930-470d-bee1-e2d2418124d7.png)
+<br>
+
 ### Resources Used in This Project
 
 Fonts: https://fontsource.org/ <br />
